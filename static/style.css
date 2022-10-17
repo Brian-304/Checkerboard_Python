@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #000000;
+    padding: .5rem 1rem;
+    color: #fe0101;
+    width: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h1 {
+    background-color: black
+    color red;
+}
+
+p {
+    background-color: aqua;
+    color: orange;
+    padding: 10px;
+    display: inline-block;
+} 
+
+.color1 {
+    background-color: #fe0101;
+}
+
+.color2 {
+    background-color: #000000;
+}
+
+table {
+    margin: 0 auto;
+}
+
+tr td {
+    height: 50px;
+    width: 50px;
+}
